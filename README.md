@@ -2,7 +2,15 @@
 
 ###
 
-<h4 align="left">Hey, I'am João Portolan (aka Jacques D. Muller) and i'm a tech enthusiast with an artistic soul 🖌💻. When I'm not diving into code or exploring new technologies, you'll find me expressing creativity through various art forms. I believe the best innovations happen when logical thinking meets creative expression - that sweet spot where functionality becomes beautiful and art becomes purposeful. Feel free to explore my repositories, connect, or collaborate on projects that bring together the best of both worlds!</h4>
+<h4 align="left">👋 Hi there! I'm João Portolan (but you might know me as Jacques D. Muller).
+
+By day, I’m a tech enthusiast obsessed with untangling code and chasing the next breakthrough. By night (or whenever inspiration strikes), I’m an artist at heart—whether that’s painting, sculpting ideas into digital art, or scribbling melodies. 🎨✨
+
+For me, innovation isn’t just about logic or creativity —it’s where they collide. That sweet spot where sleek code meets bold design, and functional tech dances with soulful expression. Think of it as building bridges between circuits and canvases.
+
+🚀 Let’s create magic? Dive into my projects, shoot me a message, or let’s brainstorm something wild. Collaborations that blend tech and art? Count me in.
+
+(P.S. Coffee + synthwave playlists fuel my best work. Just saying.)</h4>
 
 ###
 
