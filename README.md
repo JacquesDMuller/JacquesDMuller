@@ -10,7 +10,6 @@ For me, innovation isn’t just about logic or creativity —it’s where they c
 
 🚀 Let’s create magic? Dive into my projects, shoot me a message, or let’s brainstorm something wild. Collaborations that blend tech and art? Count me in.
 
-(P.S. Coffee + synthwave playlists fuel my best work. Just saying.)</h4>
 
 ###
 
