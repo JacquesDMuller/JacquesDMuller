@@ -1,4 +1,4 @@
-<h2 align="left">Ah, wow, you really found me</h2>
+<h2 align="left">Ah, wow, you found me</h2>
 
 ###
 
